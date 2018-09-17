@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Mastering Machine Learning Algorithms
 
 
@@ -14,3 +15,13 @@ This tutorial contains machine learning algorithms implemented in Python, using 
 # Resources
 
 - [Machine Learning: An Algorithmic Perspective: Stephen Marsland ](http://dai.fmph.uniba.sk/courses/ICI/References/marsland.machine-learning.2ed.2015.pdf)
+=======
+# MachineLearning
+Machine Learning Algorithms implemented.
+- Dimensionality Reduction:
+  PCA
+  LDA
+  FACTOR ANALYSIS
+  LOCALLY LINEAR EMBEDDING
+  ISOMAP
+>>>>>>> 7a1d6eab6b756c9e863f80b0acc3144f53c13e29
