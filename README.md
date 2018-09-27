@@ -1,14 +1,44 @@
-# Mastering Machine Learning Algorithms
+# Mastering Learning Algorithms 
 
 
 ## Overview
 
-This tutorial contains machine learning algorithms implemented in Python, using numpy and scipy:
+This repository contains cheat sheets for mastering ML algorithms, all  implemented in Python from scratch using numpy and  scipy:
 
-## Dimensionality Reduction
+## Cheat Sheets
 
-- [Principal Components Analysis (PCA)](PCA.ipynb)
+### Dimensionality Reduction
+
 - [Linear Discriminant Analysis (LDA)](LDA.ipynb)
+- [Principal Components Analysis (PCA)](PCA.ipynb)
+- Kernel PCA
+- Factor Analysis 
+- Locally Linear Embedding
+- Multi-Dimensional Scaling (MDS)
+
+- [DR Analisys](DimensionalityReduction.ipynb)
+
+### Probabilistic Learning
+
+- The Expectation-Maximisation (EM) Algorithm
+
+### Support Vector Machines 
+
+### Optimisation and Search
+
+### Reinforcement Learning
+
+
+### Learning with Trees
+
+### Decision by Committee: Ensemble Learning
+
+- Random Forest
+
+### Unsupervised Learning
+
+- k-Means
+- The Self-Organising Map
 
 
 # Resources
