@@ -1,4 +1,4 @@
-# Mastering Learning Algorithms 
+# Mastering Machine Learning Algorithms 
 
 
 ## Overview
@@ -15,8 +15,7 @@ This repository contains cheat sheets for mastering ML algorithms, all  implemen
 - Factor Analysis 
 - Locally Linear Embedding
 - Multi-Dimensional Scaling (MDS)
-
-- [DR Analisys](DimensionalityReduction.ipynb)
+- [A Comparison of Dimensionality Reduction Algorithms](DimensionalityReduction.ipynb)
 
 ### Probabilistic Learning
 
