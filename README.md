@@ -11,9 +11,7 @@ This repository contains cheat sheets for mastering ML algorithms, all  implemen
 
 - [Linear Discriminant Analysis (LDA)](LDA.ipynb)
 - [Principal Components Analysis (PCA)](PCA.ipynb)
-- Kernel PCA
-- Factor Analysis 
-- Locally Linear Embedding
+- Locally Linear Embedding (LLE)
 - Multi-Dimensional Scaling (MDS)
 - [A Comparison of Dimensionality Reduction Algorithms](DimensionalityReduction.ipynb)
 
@@ -26,7 +24,6 @@ This repository contains cheat sheets for mastering ML algorithms, all  implemen
 ### Optimisation and Search
 
 ### Reinforcement Learning
-
 
 ### Learning with Trees
 
