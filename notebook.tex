@@ -311,15 +311,15 @@ cov(Y)= cov(P^{T}X) =
 
 .
 
-\begin{align}
-cov(Y) &= E[YY^T] \\
-&= E[(P^{T}X)(P^{T}X)^T] \\
-&= E[(P^{T}X)(X^{T}P)] \\
-&= P^{T}E(XX^T)P \\
-&= P^{T}cov(X)P \\
-Pcov(Y) &= PP^{T}cov(X)P \\
-Pcov(Y) &= cov(X)P \\
-\end{align}
+\begin{equation}
+cov(Y) = E[YY^T] \\
+= E[(P^{T}X)(P^{T}X)^T] \\
+= E[(P^{T}X)(X^{T}P)] \\
+= P^{T}E(XX^T)P \\
+= P^{T}cov(X)P \\
+Pcov(Y) = PP^{T}cov(X)P \\
+Pcov(Y) = cov(X)P \\
+\end{equation}
 
 As \(cov(Y)\) is diagonal, if we write \(P\) as a set of column vectors
 \(P = [p_1 , p_2 , . . . , p_N]\) then:
@@ -517,19 +517,21 @@ n.T:
     { \hspace*{\fill} \\}
     
     \begin{Verbatim}[commandchars=\\\{\}]
-{\color{incolor}In [{\color{incolor}6}]:} \PY{n}{iris} \PY{o}{=} \PY{n}{datasets}\PY{o}{.}\PY{n}{load\PYZus{}iris}\PY{p}{(}\PY{p}{)}
-        \PY{n}{X} \PY{o}{=} \PY{n}{iris}\PY{o}{.}\PY{n}{data}
-        \PY{n}{y} \PY{o}{=} \PY{n}{iris}\PY{o}{.}\PY{n}{target}
-        
-        \PY{k+kn}{from} \PY{n+nn}{sklearn.decomposition} \PY{k+kn}{import} \PY{n}{PCA}
-        \PY{n}{pca} \PY{o}{=} \PY{n}{PCA}\PY{p}{(}\PY{n}{n\PYZus{}components}\PY{o}{=}\PY{l+m+mi}{2}\PY{p}{,} \PY{n}{whiten}\PY{o}{=}\PY{n+nb+bp}{True}\PY{p}{)}
-        \PY{n}{pca}\PY{o}{.}\PY{n}{fit}\PY{p}{(}\PY{n}{X}\PY{p}{)}
-        \PY{n}{X\PYZus{}pca} \PY{o}{=} \PY{n}{pca}\PY{o}{.}\PY{n}{transform}\PY{p}{(}\PY{n}{X}\PY{p}{)}
+{\color{incolor}In [{\color{incolor} }]:} 
 \end{Verbatim}
 
 
     \begin{Verbatim}[commandchars=\\\{\}]
-{\color{incolor}In [{\color{incolor}7}]:} \PY{k}{for} \PY{n}{i}\PY{p}{,} \PY{n}{c}\PY{p}{,} \PY{n}{label} \PY{o+ow}{in} \PY{n+nb}{zip}\PY{p}{(}\PY{n}{target\PYZus{}ids}\PY{p}{,} \PY{l+s+s1}{\PYZsq{}}\PY{l+s+s1}{rgb}\PY{l+s+s1}{\PYZsq{}}\PY{p}{,} \PY{n}{iris}\PY{o}{.}\PY{n}{target\PYZus{}names}\PY{p}{)}\PY{p}{:}
+{\color{incolor}In [{\color{incolor}6}]:} \PY{k+kn}{from} \PY{n+nn}{sklearn.decomposition} \PY{k+kn}{import} \PY{n}{PCA}
+        
+        \PY{n}{X} \PY{o}{=} \PY{n}{iris}\PY{o}{.}\PY{n}{data}
+        \PY{n}{y} \PY{o}{=} \PY{n}{iris}\PY{o}{.}\PY{n}{target}
+        
+        \PY{n}{pca} \PY{o}{=} \PY{n}{PCA}\PY{p}{(}\PY{n}{n\PYZus{}components}\PY{o}{=}\PY{l+m+mi}{2}\PY{p}{,} \PY{n}{whiten}\PY{o}{=}\PY{n+nb+bp}{True}\PY{p}{)}
+        \PY{n}{pca}\PY{o}{.}\PY{n}{fit}\PY{p}{(}\PY{n}{X}\PY{p}{)}
+        \PY{n}{X\PYZus{}pca} \PY{o}{=} \PY{n}{pca}\PY{o}{.}\PY{n}{transform}\PY{p}{(}\PY{n}{X}\PY{p}{)}
+        
+        \PY{k}{for} \PY{n}{i}\PY{p}{,} \PY{n}{c}\PY{p}{,} \PY{n}{label} \PY{o+ow}{in} \PY{n+nb}{zip}\PY{p}{(}\PY{n}{target\PYZus{}ids}\PY{p}{,} \PY{l+s+s1}{\PYZsq{}}\PY{l+s+s1}{rgb}\PY{l+s+s1}{\PYZsq{}}\PY{p}{,} \PY{n}{iris}\PY{o}{.}\PY{n}{target\PYZus{}names}\PY{p}{)}\PY{p}{:}
             \PY{n}{plt}\PY{o}{.}\PY{n}{scatter}\PY{p}{(}\PY{n}{X\PYZus{}pca}\PY{p}{[}\PY{n}{y} \PY{o}{==} \PY{n}{i}\PY{p}{,} \PY{l+m+mi}{0}\PY{p}{]}\PY{p}{,} \PY{n}{X\PYZus{}pca}\PY{p}{[}\PY{n}{y} \PY{o}{==} \PY{n}{i}\PY{p}{,} \PY{l+m+mi}{1}\PY{p}{]}\PY{p}{,}
                        \PY{n}{c}\PY{o}{=}\PY{n}{c}\PY{p}{,} \PY{n}{label}\PY{o}{=}\PY{n}{label}\PY{p}{,} \PY{n}{marker}\PY{o}{=}\PY{l+s+s1}{\PYZsq{}}\PY{l+s+s1}{.}\PY{l+s+s1}{\PYZsq{}}\PY{p}{)}
         \PY{n}{plt}\PY{o}{.}\PY{n}{legend}\PY{p}{(}\PY{p}{)}
@@ -542,7 +544,7 @@ n.T:
     \end{center}
     { \hspace*{\fill} \\}
     
-    \section{References}\label{references}
+    \subsection{References}\label{references}
 
 \href{http://dai.fmph.uniba.sk/courses/ICI/References/marsland.machine-learning.2ed.2015.pdf}{Machine
 Learning: An Algorithmic Perspective: Stephen Marsland}
