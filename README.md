@@ -3,15 +3,15 @@
 
 ## Overview
 
-This repository contains cheat sheets for mastering ML algorithms, all  implemented in Python from scratch using numpy and  scipy:
+This repository contains cheat sheets of ML implemented algorithms, all in Python from scratch using numpy and scipy:
 
-## Cheat Sheets
+## Cheat Sheets of Implemented Algorithms
 
 ### Dimensionality Reduction
 
 - [Linear Discriminant Analysis (LDA)](LDA.ipynb)
 - [Principal Components Analysis (PCA)](PCA.ipynb)
-- Locally Linear Embedding (LLE)
+- [Locally Linear Embedding (LLE)](LLE.ipynb)
 - Multi-Dimensional Scaling (MDS)
 - [A Comparison of Dimensionality Reduction Algorithms](DimensionalityReduction.ipynb)
 
