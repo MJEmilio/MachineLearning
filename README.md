@@ -5,7 +5,7 @@
 
 This repository contains cheat sheets of ML algorithms for Data Science, all implemented in Python from scratch using numpy and scikit-learn:
 
-## Cheat Sheets of Implemented Algorithms
+## Categories of Implemented Algorithms
 
 ### Dimensionality Reduction
 
@@ -33,7 +33,7 @@ This repository contains cheat sheets of ML algorithms for Data Science, all imp
 
 ### Unsupervised Learning
 
-- k-Means
+- [K-Means](K-Means)
 - The Self-Organising Map
 
 ## Exercises
