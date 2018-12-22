@@ -2,6 +2,7 @@
 
 ![alt text](https://benfry.com/exd09/full/13.png)
 
+
 ## Overview
 
 The Saturn project is a guide that provides a complete theoretical base of knowledge about Machine Learning merged with Data Science, Data Visualization and Data Exploration, all implemented in Python from scratch and evaluated and compared using scikit-learn, tensorflow and keras:
