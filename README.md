@@ -13,15 +13,16 @@ This repository contains cheat sheets of ML algorithms for Data Science, all imp
 - [Principal Components Analysis (PCA)](PCA.ipynb)
 - [Locally Linear Embedding (LLE)](LLE.ipynb)
 - Multi-Dimensional Scaling (MDS)
-- [A Comparison of Dimensionality Reduction Algorithms](DimensionalityReduction.ipynb)
+- [Comparison of Dimensionality Reduction Algorithms](DimensionalityReduction.ipynb)
 
 ### Probabilistic Learning
 
-- The Expectation-Maximisation (EM) Algorithm
+- [Gaussian Mixture Models (GMM)](GMM.ipynb)
+- [K-Nearest Neighbors (KNN)](KNN.ipynb)
+- [KD-Tree](KD-Tree.ipynb)
+
 
 ### Support Vector Machines 
-
-### Optimisation and Search
 
 ### Reinforcement Learning
 
@@ -29,12 +30,13 @@ This repository contains cheat sheets of ML algorithms for Data Science, all imp
 
 ### Decision by Committee: Ensemble Learning
 
-- Random Forest
+- [Random Forest](RandomForest.ipynb)
 
 ### Unsupervised Learning
 
-- [K-Means](K-Means)
-- The Self-Organising Map
+- [K-Means](K-Means.ipynb)
+
+### Gaussian Processes
 
 ## Exercises
 
