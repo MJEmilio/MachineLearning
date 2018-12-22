@@ -1,4 +1,4 @@
-# Saturn: Machine Learning for Data Science
+# Saturn: Machine Learning Merged with Data
 
 ![alt text](https://benfry.com/exd09/full/13.png)
 
