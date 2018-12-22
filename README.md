@@ -1,9 +1,9 @@
-# Machine Learning Algorithms for Data Science
+# Saturn: Machine Learning Algorithms for Data Science
 
 
 ## Overview
 
-This project is a framework that provides a guide, theoretical foundations notes, implementations and cheat sheets of Machine Learning algorithms for Data Science, Data Visualization and Data Exploration, all  implemented in Python from scratch using numpy and evaluated and compared using scikit-learn, tensorflow and keras:
+The Saturn project is a guide that provides a complete theoretical base of knowledge about Machine Learning merged with Data Science, Data Visualization and Data Exploration, all implemented in Python from scratch and evaluated and compared using scikit-learn, tensorflow and keras:
 
 ## Categories of Implemented Algorithms
 
