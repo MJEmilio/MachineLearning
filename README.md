@@ -1,4 +1,4 @@
-# Saturn: Machine Learning Algorithms for Data Science
+# Saturn: Machine Learning for Data Science
 
 
 ## Overview
