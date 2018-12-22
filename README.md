@@ -50,7 +50,8 @@ This project is a framework that provides a guide, theoretical foundations notes
 ## References
 
 - [Machine Learning: An Algorithmic Perspective - Stephen Marsland ](http://dai.fmph.uniba.sk/courses/ICI/References/marsland.machine-learning.2ed.2015.pdf)
-[Data Science for Business - Foster Provost/Tom Fawcett]
+- [Understanding Machine Learning: From Theory to Algorithms 2014 by Shai Shalev-Shwartz and Shai Ben-David]
 
+- [Data Science for Business - Foster Provost/Tom Fawcett]
 
 
