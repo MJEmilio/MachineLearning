@@ -3,7 +3,7 @@
 
 ## Overview
 
-This repository contains cheat sheets of ML algorithms for Data Science, all implemented in Python from scratch using numpy and scikit-learn:
+This project is a framework that provides a guide, theoretical foundations notes, implementations and cheat sheets of Machine Learning algorithms for Data Science, Data Visualization and Data Exploration, all  implemented in Python from scratch using numpy and evaluated and compared using scikit-learn, tensorflow and keras:
 
 ## Categories of Implemented Algorithms
 
@@ -12,8 +12,9 @@ This repository contains cheat sheets of ML algorithms for Data Science, all imp
 - [Linear Discriminant Analysis (LDA)](LDA.ipynb)
 - [Principal Components Analysis (PCA)](PCA.ipynb)
 - [Locally Linear Embedding (LLE)](LLE.ipynb)
-- Multi-Dimensional Scaling (MDS)
+- [Multi-Dimensional Scaling (MDS)](MDS.ipynb)
 - [Comparison of Dimensionality Reduction Algorithms](DimensionalityReduction.ipynb)
+- [Isomap](Isomap.ipynb)
 
 ### Probabilistic Learning
 
@@ -21,16 +22,17 @@ This repository contains cheat sheets of ML algorithms for Data Science, all imp
 - [K-Nearest Neighbors (KNN)](KNN.ipynb)
 - [KD-Tree](KD-Tree.ipynb)
 
-
 ### Support Vector Machines 
+- [The Support Vector Machine Algorithm](SVM.ipynb)
 
 ### Reinforcement Learning
-
-### Learning with Trees
+- [SARSA](SARSA.ipynb)
+- [Q-Learning](QL.ipynb)
 
 ### Decision by Committee: Ensemble Learning
 
 - [Random Forest](RandomForest.ipynb)
+- [AdaBoost](AdaBoost.ipynb)
 
 ### Unsupervised Learning
 
@@ -38,11 +40,17 @@ This repository contains cheat sheets of ML algorithms for Data Science, all imp
 
 ### Gaussian Processes
 
+- [Gaussian Process Regression](GPR.ipynb)
+- [Gaussian Process Classification](GPM.ipynb)
+
 ## Exercises
 
 - [Exercise PCA](Exercise_PCA.ipynb)
 
 ## References
 
-- [Machine Learning: An Algorithmic Perspective: Stephen Marsland ](http://dai.fmph.uniba.sk/courses/ICI/References/marsland.machine-learning.2ed.2015.pdf)
+- [Machine Learning: An Algorithmic Perspective - Stephen Marsland ](http://dai.fmph.uniba.sk/courses/ICI/References/marsland.machine-learning.2ed.2015.pdf)
+[Data Science for Business - Foster Provost/Tom Fawcett]
+
+
 
