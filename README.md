@@ -5,7 +5,7 @@
 
 ## Overview
 
-This repository provides state-of-the-art ML tools based on the exploration, visualization, and analysis of data for DS. These are meant to serve as a learning tool to complement the theoretical materials from:
+This repository provides state-of-the-art ML tools, code, applications and notes for DS. These are meant to serve as a learning tool to complement the theoretical materials from:
 
 - [Machine Learning: An Algorithmic Perspective - Stephen Marsland ](https://seat.massey.ac.nz/personal/s.r.marsland/mlbook.html)
 
