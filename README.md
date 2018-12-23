@@ -9,6 +9,11 @@ This repository exists to understand and apply cutting-edge ML solutions based o
 
 ## Theory
 
+### The Data Mining Process
+
+![alt text](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/CRISP-DM_Process_Diagram.png/1200px-CRISP-DM_Process_Diagram.png)
+
+
 ## Categories of Algorithms
 
 ### Dimensionality Reduction
