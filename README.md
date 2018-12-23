@@ -5,7 +5,7 @@
 
 ## Overview
 
-This repository provides cutting-edge ML solutions based on the exploration, visualization, and analysis of data.
+This repository provides cutting-edge ML tools based on the exploration, visualization, and analysis of data.
 
 ## Theory
 
