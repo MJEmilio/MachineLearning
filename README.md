@@ -5,7 +5,7 @@
 
 ## Overview
 
-This repository exists to understand and apply cutting-edge ML solutions based on the exploration, analysis and learning of data, with the ability to adapt to changes and improve performance with experience.
+This repository provides cutting-edge ML solutions based on the exploration, visualization, and analysis of data.
 
 ## Theory
 
@@ -14,7 +14,7 @@ This repository exists to understand and apply cutting-edge ML solutions based o
 ![alt text](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/CRISP-DM_Process_Diagram.png/1200px-CRISP-DM_Process_Diagram.png)
 
 
-## Categories of Algorithms
+## Categories of of Implemented Algorithms
 
 ### Dimensionality Reduction
 
@@ -64,5 +64,7 @@ This repository exists to understand and apply cutting-edge ML solutions based o
 - [Data Science for Business - Foster Provost/Tom Fawcett](http://data-science-for-biz.com/)
 
 - [Deep Learning - Ian Goodfellow and Yoshua Bengio and Aaron Courville](https://www.deeplearningbook.org/)
+
+-[Reinforcement Learning: An Introduction (2nd Edition)](http://incompleteideas.net/book/bookdraft2018jan1.pdf)
 
 
