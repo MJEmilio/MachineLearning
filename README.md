@@ -5,7 +5,7 @@
 
 ## Overview
 
-Project Saturn exists to understand and apply state of the art solutions that deals with the design of programs that can learn  from data, adapt to changes, and improve performance with experince. The union between data science and machine learning.
+Project Saturn exists to understand and apply state of the art solutions that can learn from data, adapt to changes, and improve performance with experince. The union between data science and machine learning.
 
 ## Theory
 
