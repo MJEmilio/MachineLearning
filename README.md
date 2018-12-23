@@ -13,7 +13,7 @@ This repository provides cutting-edge ML solutions based on the exploration, vis
 
 ### Understanding Data Science
 
-## Categories of of Implemented Algorithms
+## Categories of Implemented Algorithms
 
 ### Dimensionality Reduction
 
@@ -22,7 +22,7 @@ This repository provides cutting-edge ML solutions based on the exploration, vis
 - [Locally Linear Embedding (LLE)](LLE.ipynb)
 - [Multi-Dimensional Scaling (MDS)](MDS.ipynb)
 - [Isomap](Isomap.ipynb)
-- [Quadratic Discriminant Analysis](QDA.ipynb)
+- [Quadratic Discriminant Analysis (QDA)](QDA.ipynb)
 - [Comparison of Dimensionality Reduction Algorithms](DimensionalityReduction.ipynb)
 
 
