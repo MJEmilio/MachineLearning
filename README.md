@@ -1,11 +1,11 @@
-# Saturn: Machine Learning and Data Science
+# Machine Learning and Data Science
 
 ![alt text](https://benfry.com/exd09/full/13.png)
 
 
 ## Overview
 
-Saturn is an educational project that exists to understand and apply state of the art solutions that can learn from data, adapt to changes, and improve performance with experince. The union between data science and machine learning.
+This repository exists to understand and apply cutting-edge ML solutions based on the exploration, analysis and learning of data, with the ability to adapt to changes and improve performance with experience.
 
 ## Theory
 
