@@ -13,11 +13,6 @@ This repository provides cutting-edge ML solutions based on the exploration, vis
 
 ### Understanding Data Science
 
- - The Data Mining Process
-
-![alt text](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/CRISP-DM_Process_Diagram.png/1200px-CRISP-DM_Process_Diagram.png)
-
-
 ## Categories of of Implemented Algorithms
 
 ### Dimensionality Reduction
