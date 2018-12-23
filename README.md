@@ -1,13 +1,15 @@
-# Saturn: Machine Learning Merged with Data
+# Saturn: Machine Learning and Data Science
 
 ![alt text](https://benfry.com/exd09/full/13.png)
 
 
 ## Overview
 
-The Saturn project is a guide that provides a complete theoretical base of knowledge about Machine Learning merged with Data Science, Data Visualization and Data Exploration, all implemented in Python from scratch and evaluated and compared using scikit-learn, tensorflow and keras:
+Project Saturn exists to understand and apply state of the art solutions that deals with the design of programs that can learn  from data, adapt to changes, and improve performance with experince. The union between data science and machine learning.
 
-## Categories of Implemented Algorithms
+## Theory
+
+## Categories of Algorithms
 
 ### Dimensionality Reduction
 
@@ -49,7 +51,7 @@ The Saturn project is a guide that provides a complete theoretical base of knowl
 
 - [Exercise PCA](Exercise_PCA.ipynb)
 
-## References
+## Resources
 
 - [Machine Learning: An Algorithmic Perspective - Stephen Marsland ](http://dai.fmph.uniba.sk/courses/ICI/References/marsland.machine-learning.2ed.2015.pdf)
 - [Understanding Machine Learning: From Theory to Algorithms 2014 by Shai Shalev-Shwartz and Shai Ben-David]
