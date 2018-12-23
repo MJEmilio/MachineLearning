@@ -58,9 +58,11 @@ This repository exists to understand and apply cutting-edge ML solutions based o
 
 ## Resources
 
-- [Machine Learning: An Algorithmic Perspective - Stephen Marsland ](http://dai.fmph.uniba.sk/courses/ICI/References/marsland.machine-learning.2ed.2015.pdf)
-- [Understanding Machine Learning: From Theory to Algorithms 2014 by Shai Shalev-Shwartz and Shai Ben-David]
+- [Machine Learning: An Algorithmic Perspective - Stephen Marsland ](https://seat.massey.ac.nz/personal/s.r.marsland/mlbook.html)
+- [Understanding Machine Learning: From Theory to Algorithms 2014 by Shai Shalev-Shwartz and Shai Ben-David](http://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning/)
 
-- [Data Science for Business - Foster Provost/Tom Fawcett]
+- [Data Science for Business - Foster Provost/Tom Fawcett](http://data-science-for-biz.com/)
+
+- [Deep Learning - Ian Goodfellow and Yoshua Bengio and Aaron Courville](https://www.deeplearningbook.org/)
 
 
