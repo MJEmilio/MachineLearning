@@ -1,4 +1,4 @@
-# Machine Learning Algorithms for Data Science
+# Prometheus: Machine Learning for Data Science
 
 
 ## Overview
