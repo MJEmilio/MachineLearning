@@ -1,9 +1,25 @@
+<<<<<<< HEAD
 # Prometheus: Machine Learning for Data Science
+=======
+# Machine Learning and Data Science
+
+![alt text](https://benfry.com/exd09/full/13.png)
+>>>>>>> 14d37a20f1f4f8b4b524ae8e93abd7ad57409380
 
 
 ## Overview
 
-This project is a framework that provides a guide, theoretical foundations notes, implementations and cheat sheets of Machine Learning algorithms for Data Science, Data Visualization and Data Exploration, all  implemented in Python from scratch using numpy and evaluated and compared using scikit-learn, tensorflow and keras:
+This repository provides state-of-the-art ML tools, code, applications and notes for DS. These are meant to serve as a learning tool to complement the theoretical materials from:
+
+- [Machine Learning: An Algorithmic Perspective - Stephen Marsland ](https://seat.massey.ac.nz/personal/s.r.marsland/mlbook.html)
+
+- [Deep Learning - Ian Goodfellow and Yoshua Bengio and Aaron Courville](https://www.deeplearningbook.org/)
+
+## Theory
+
+### Theoretical Foundations of Machine Learning 
+
+### Understanding Data Science
 
 ## Categories of Implemented Algorithms
 
@@ -13,8 +29,10 @@ This project is a framework that provides a guide, theoretical foundations notes
 - [Principal Components Analysis (PCA)](PCA.ipynb)
 - [Locally Linear Embedding (LLE)](LLE.ipynb)
 - [Multi-Dimensional Scaling (MDS)](MDS.ipynb)
-- [Comparison of Dimensionality Reduction Algorithms](DimensionalityReduction.ipynb)
 - [Isomap](Isomap.ipynb)
+- [Quadratic Discriminant Analysis (QDA)](QDA.ipynb)
+- [Comparison of Dimensionality Reduction Algorithms](DimensionalityReduction.ipynb)
+
 
 ### Probabilistic Learning
 
@@ -23,16 +41,22 @@ This project is a framework that provides a guide, theoretical foundations notes
 - [KD-Tree](KD-Tree.ipynb)
 
 ### Support Vector Machines 
+
 - [The Support Vector Machine Algorithm](SVM.ipynb)
 
 ### Reinforcement Learning
+
 - [SARSA](SARSA.ipynb)
 - [Q-Learning](QL.ipynb)
 
+### Learning with Trees
+
+- [ID3](ID3.ipynb)
+
 ### Decision by Committee: Ensemble Learning
 
-- [Random Forest](RandomForest.ipynb)
 - [AdaBoost](AdaBoost.ipynb)
+- [Random Forest](RandomForest.ipynb)
 
 ### Unsupervised Learning
 
@@ -47,11 +71,15 @@ This project is a framework that provides a guide, theoretical foundations notes
 
 - [Exercise PCA](Exercise_PCA.ipynb)
 
-## References
+## Resources
 
-- [Machine Learning: An Algorithmic Perspective - Stephen Marsland ](http://dai.fmph.uniba.sk/courses/ICI/References/marsland.machine-learning.2ed.2015.pdf)
-- [Understanding Machine Learning: From Theory to Algorithms 2014 by Shai Shalev-Shwartz and Shai Ben-David]
+- [Machine Learning: An Algorithmic Perspective - Stephen Marsland ](https://seat.massey.ac.nz/personal/s.r.marsland/mlbook.html)
+- [Understanding Machine Learning: From Theory to Algorithms - Shai Shalev-Shwartz and Shai Ben-David](http://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning/)
 
-- [Data Science for Business - Foster Provost/Tom Fawcett]
+- [Data Science for Business - Foster Provost and Tom Fawcett](http://data-science-for-biz.com/)
+
+- [Deep Learning - Ian Goodfellow and Yoshua Bengio and Aaron Courville](https://www.deeplearningbook.org/)
+
+- [Reinforcement Learning: An Introduction (2nd Edition)](http://incompleteideas.net/book/bookdraft2018jan1.pdf)
 
 
