@@ -4,7 +4,6 @@
 # Machine Learning and Data Science
 
 ![alt text](https://benfry.com/exd09/full/13.png)
->>>>>>> 14d37a20f1f4f8b4b524ae8e93abd7ad57409380
 
 
 ## Overview
