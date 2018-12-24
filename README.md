@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-# Prometheus: Machine Learning for Data Science
-=======
 # Machine Learning and Data Science
 
 ![alt text](https://benfry.com/exd09/full/13.png)
