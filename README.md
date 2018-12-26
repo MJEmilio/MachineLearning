@@ -5,11 +5,14 @@
 
 ## Overview
 
-This repository provides state-of-the-art ML tools, code, applications and notes for DS. These are meant to serve as a learning tool to complement the theoretical materials from:
+This repository provides state-of-the-art ML tools, code, notes, and applications in DS. These also are meant to serve as a learning tool to complement the theoretical materials from:
 
 - [Machine Learning: An Algorithmic Perspective - Stephen Marsland ](https://seat.massey.ac.nz/personal/s.r.marsland/mlbook.html)
 
 - [Deep Learning - Ian Goodfellow and Yoshua Bengio and Aaron Courville](https://www.deeplearningbook.org/)
+
+- [Understanding Machine Learning: From Theory to Algorithms - Shai Shalev-Shwartz and Shai Ben-David](http://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning/)
+
 
 ## Theory
 
@@ -70,6 +73,7 @@ This repository provides state-of-the-art ML tools, code, applications and notes
 ## Resources
 
 - [Machine Learning: An Algorithmic Perspective - Stephen Marsland ](https://seat.massey.ac.nz/personal/s.r.marsland/mlbook.html)
+
 - [Understanding Machine Learning: From Theory to Algorithms - Shai Shalev-Shwartz and Shai Ben-David](http://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning/)
 
 - [Data Science for Business - Foster Provost and Tom Fawcett](http://data-science-for-biz.com/)
