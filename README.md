@@ -1,6 +1,6 @@
 # Machine Learning and Data Science
 
-![alt text](https://benfry.com/exd09/full/13.png)
+![alt text](/img/main.png)
 
 
 ## Overview
@@ -29,8 +29,7 @@ This repository provides state-of-the-art ML tools, code, notes, and application
 - [Locally Linear Embedding (LLE)](LLE.ipynb)
 - [Multi-Dimensional Scaling (MDS)](MDS.ipynb)
 - [Isomap](Isomap.ipynb)
-- [Quadratic Discriminant Analysis (QDA)](QDA.ipynb)
-- [Comparison of Dimensionality Reduction Algorithms](DimensionalityReduction.ipynb)
+- [Dimensionality Reduction Algorithms: Linear - No Linear ](DimensionalityReduction.ipynb)
 
 
 ### Probabilistic Learning
@@ -38,6 +37,7 @@ This repository provides state-of-the-art ML tools, code, notes, and application
 - [Gaussian Mixture Models (GMM)](GMM.ipynb)
 - [K-Nearest Neighbors (KNN)](KNN.ipynb)
 - [KD-Tree](KD-Tree.ipynb)
+- [Quadratic Discriminant Analysis (QDA)](QDA.ipynb)
 
 ### Support Vector Machines 
 
