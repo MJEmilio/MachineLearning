@@ -1,11 +1,11 @@
-# Machine Learning and Data Science
+# Machine Learning/Data Science Lab
 
 ![alt text](/img/main.png)
 
 
 ## Overview
 
-This repository provides state-of-the-art ML tools, code, notes, and applications in DS. These also are meant to serve as a learning tool to complement the theoretical materials from:
+This repository is meant to serve as a laboratory that offers a framework to build, develop and implement ML / DS applications, codes and research. This also serves as a learning tool to complement the theoretical materials of:
 
 - [Machine Learning: An Algorithmic Perspective - Stephen Marsland ](https://seat.massey.ac.nz/personal/s.r.marsland/mlbook.html)
 
@@ -29,15 +29,13 @@ This repository provides state-of-the-art ML tools, code, notes, and application
 - [Locally Linear Embedding (LLE)](LLE.ipynb)
 - [Multi-Dimensional Scaling (MDS)](MDS.ipynb)
 - [Isomap](Isomap.ipynb)
-- [Dimensionality Reduction Algorithms: Linear - No Linear ](DimensionalityReduction.ipynb)
+- [Dimensionality Reduction: Linear/Non-Linear ](DimensionalityReduction.ipynb)
 
 
 ### Probabilistic Learning
 
 - [Gaussian Mixture Models (GMM)](GMM.ipynb)
 - [K-Nearest Neighbors (KNN)](KNN.ipynb)
-- [KD-Tree](KD-Tree.ipynb)
-- [Quadratic Discriminant Analysis (QDA)](QDA.ipynb)
 
 ### Support Vector Machines 
 
@@ -61,10 +59,10 @@ This repository provides state-of-the-art ML tools, code, notes, and application
 
 - [K-Means](K-Means.ipynb)
 
-### Gaussian Processes
+### Statistical Classification
 
-- [Gaussian Process Regression](GPR.ipynb)
-- [Gaussian Process Classification](GPM.ipynb)
+- [Quadratic Discriminant Analysis (QDA)](QDA.ipynb)
+
 
 ## Exercises
 
