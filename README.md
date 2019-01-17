@@ -5,7 +5,7 @@
 
 ## Overview
 
-This repository is meant to serve a framework to build, develop and implement ML / DS applications, codes and research. This also serves as a learning tool to complement the theoretical materials of:
+This repository is meant to serve as a framework to build, develop and implement ML/DS applications, codes and research. This also serves as a learning tool to complement the theoretical materials of:
 
 - [Machine Learning: An Algorithmic Perspective - Stephen Marsland ](https://seat.massey.ac.nz/personal/s.r.marsland/mlbook.html)
 
@@ -20,9 +20,10 @@ This repository is meant to serve a framework to build, develop and implement ML
 
 ### Understanding Data Science
 
-## Categories of Implemented Algorithms
 
-### Dimensionality Reduction
+## Categories of Techniques and Learning Algorithms
+
+### Data Visualization and Dimensionality Reduction
 
 - [Linear Discriminant Analysis (LDA)](LDA.ipynb)
 - [Principal Components Analysis (PCA)](PCA.ipynb)
@@ -31,20 +32,22 @@ This repository is meant to serve a framework to build, develop and implement ML
 - [Isomap](Isomap.ipynb)
 - [Dimensionality Reduction: Linear/Non-Linear ](DimensionalityReduction.ipynb)
 
+### Unsupervised Learning and Cluster analysis
+
+- [K-Means](K-Means.ipynb)
 
 ### Probabilistic Learning
 
 - [Gaussian Mixture Models (GMM)](GMM.ipynb)
 - [K-Nearest Neighbors (KNN)](KNN.ipynb)
 
+### Statistical Classification
+
+- [Quadratic Discriminant Analysis (QDA)](QDA.ipynb)
+
 ### Support Vector Machines 
 
 - [The Support Vector Machine Algorithm](SVM.ipynb)
-
-### Reinforcement Learning
-
-- [SARSA](SARSA.ipynb)
-- [Q-Learning](QL.ipynb)
 
 ### Learning with Trees
 
@@ -55,18 +58,17 @@ This repository is meant to serve a framework to build, develop and implement ML
 - [AdaBoost](AdaBoost.ipynb)
 - [Random Forest](RandomForest.ipynb)
 
-### Unsupervised Learning
+### Reinforcement Learning
 
-- [K-Means](K-Means.ipynb)
+- [SARSA](SARSA.ipynb)
+- [Q-Learning](QL.ipynb)
 
-### Statistical Classification
-
-- [Quadratic Discriminant Analysis (QDA)](QDA.ipynb)
 
 
 ## Exercises
 
 - [Exercise PCA](Exercise_PCA.ipynb)
+
 
 ## Resources
 
