@@ -1,6 +1,6 @@
 # Machine Learning/Data Science
 
-![alt text](/img/main.png)
+![alt text](/img/ma.png)
 
 
 ## Overview
@@ -17,6 +17,9 @@ This repository is meant to serve as a framework to build, develop and implement
 ## Theory
 
 ### Theoretical Foundations of Machine Learning 
+
+- [Bias-Variance Tradeoff](Bias-Variance Tradeoff.ipynb)
+
 
 ### Understanding Data Science
 
