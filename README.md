@@ -18,7 +18,7 @@ This repository is meant to serve as a framework to build, develop and implement
 
 ### Theoretical Foundations of Machine Learning 
 
-- [Bias-Variance Tradeoff]("Bias-Variance Tradeoff.ipynb")
+- [Bias-Variance Tradeoff](Bias-VarianceTradeoff.ipynb)
 
 
 ### Understanding Data Science
