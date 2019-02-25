@@ -9,10 +9,6 @@ This repository is meant to serve as a framework to build, develop and implement
 
 - [Machine Learning: An Algorithmic Perspective - Stephen Marsland ](https://seat.massey.ac.nz/personal/s.r.marsland/mlbook.html)
 
-- [Deep Learning - Ian Goodfellow and Yoshua Bengio and Aaron Courville](https://www.deeplearningbook.org/)
-
-- [Understanding Machine Learning: From Theory to Algorithms - Shai Shalev-Shwartz and Shai Ben-David](http://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning/)
-
 
 ## Theory
 
@@ -50,22 +46,16 @@ This repository is meant to serve as a framework to build, develop and implement
 
 ### Support Vector Machines 
 
-- [The Support Vector Machine Algorithm](SVM.ipynb)
+- [The Support Vector Machine Algorithm]
 
 ### Learning with Trees
 
-- [ID3](ID3.ipynb)
+- [ID3]
 
 ### Decision by Committee: Ensemble Learning
 
-- [AdaBoost](AdaBoost.ipynb)
+- [AdaBoost]
 - [Random Forest](RandomForest.ipynb)
-
-### Reinforcement Learning
-
-- [SARSA](SARSA.ipynb)
-- [Q-Learning](QL.ipynb)
-
 
 
 ## Exercises
