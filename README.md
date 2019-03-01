@@ -50,7 +50,7 @@ This repository is meant to serve as a framework to build, develop and implement
 
 ### Learning with Trees
 
-- [ID3]
+- [ID3](ID3.ipynb)
 
 ### Decision by Committee: Ensemble Learning
 
