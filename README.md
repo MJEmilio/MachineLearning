@@ -5,7 +5,7 @@
 
 ## Overview
 
-This repository is meant to serve as a framework to build, develop and implement ML/DS applications, codes and research. This also serves as a learning tool to complement the theoretical materials of:
+This repository is meant to serve as a framework to build, and implement Machine Learning and Data Science projects. This also serves as a learning tool to complement the theoretical materials of:
 
 - [Machine Learning: An Algorithmic Perspective - Stephen Marsland ](https://seat.massey.ac.nz/personal/s.r.marsland/mlbook.html)
 
