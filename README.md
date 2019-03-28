@@ -1,11 +1,11 @@
-# Machine Learning/Data Science
+# Machine Learning/Data Science Framework
 
 ![alt text](/img/test.png)
 
 
 ## Overview
 
-This repository is meant to serve as a framework to build, and implement Machine Learning and Data Science projects. This also serves as a learning tool to complement the theoretical materials of:
+This repository is meant to serve as a framework to build Machine Learning  algorithms based projects. This also serves as a learning tool to complement the theoretical materials of:
 
 - [Machine Learning: An Algorithmic Perspective - Stephen Marsland ](https://seat.massey.ac.nz/personal/s.r.marsland/mlbook.html)
 
@@ -14,6 +14,7 @@ This repository is meant to serve as a framework to build, and implement Machine
 
 ### Theoretical Foundations of Machine Learning 
 
+- [Classification](Classification.ipynb)
 - [Bias-Variance Tradeoff](Bias-VarianceTradeoff.ipynb)
 
 
@@ -29,6 +30,7 @@ This repository is meant to serve as a framework to build, and implement Machine
 - [Locally Linear Embedding (LLE)](LLE.ipynb)
 - [Multi-Dimensional Scaling (MDS)](MDS.ipynb)
 - [Isomap](Isomap.ipynb)
+- [T-SNE](T-SNE.ipynb)
 - [Dimensionality Reduction: Linear/Non-Linear ](DimensionalityReduction.ipynb)
 
 ### Unsupervised Learning and Cluster analysis
