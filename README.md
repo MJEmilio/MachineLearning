@@ -23,17 +23,17 @@ This repository is meant to serve as a framework to build Machine Learning  algo
 
 ## Categories of Techniques and Learning Algorithms
 
-### Data Visualization and Dimensionality Reduction
+### Dimensionality Reduction
 
 - [Linear Discriminant Analysis (LDA)](LDA.ipynb)
 - [Principal Components Analysis (PCA)](PCA.ipynb)
 - [Locally Linear Embedding (LLE)](LLE.ipynb)
 - [Multi-Dimensional Scaling (MDS)](MDS.ipynb)
 - [Isomap](Isomap.ipynb)
-- [T-SNE](T-SNE.ipynb)
+- [T-SNE]
 - [Dimensionality Reduction: Linear/Non-Linear ](DimensionalityReduction.ipynb)
 
-### Unsupervised Learning and Cluster analysis
+### Unsupervised Learning
 
 - [K-Means](K-Means.ipynb)
 
@@ -42,9 +42,9 @@ This repository is meant to serve as a framework to build Machine Learning  algo
 - [Gaussian Mixture Models (GMM)](GMM.ipynb)
 - [K-Nearest Neighbors (KNN)](KNN.ipynb)
 
-### Statistical Classification
+### Neural Networks
 
-- [Quadratic Discriminant Analysis (QDA)](QDA.ipynb)
+- [Perceptron](Perceptron.ipynb)
 
 ### Support Vector Machines 
 
