@@ -18,9 +18,6 @@ This repository is meant to serve as a framework to build Machine Learning  algo
 - [Bias-Variance Tradeoff](Bias-VarianceTradeoff.ipynb)
 
 
-### Understanding Data Science
-
-
 ## Categories of Techniques and Learning Algorithms
 
 ### Dimensionality Reduction
@@ -36,6 +33,7 @@ This repository is meant to serve as a framework to build Machine Learning  algo
 ### Unsupervised Learning
 
 - [K-Means](K-Means.ipynb)
+- [SOM]
 
 ### Probabilistic Learning
 
