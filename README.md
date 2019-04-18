@@ -43,6 +43,7 @@ This repository is meant to serve as a framework to build Machine Learning  algo
 ### Neural Networks
 
 - [Perceptron](Perceptron.ipynb)
+- [Multi-layer Perceptron](MLP.ipynb)
 
 ### Support Vector Machines 
 
