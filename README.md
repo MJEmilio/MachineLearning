@@ -20,6 +20,11 @@ This repository is meant to serve as a framework to build, train, deploy and imp
 
 ## Categories of Techniques and Learning Algorithms
 
+### Classification
+- [Naive Bayes (NB)](NaiveBayes.ipynb)
+- [Linear and Quadratic Discriminant Analysis]
+- [Logistic Regression]
+
 ### Dimensionality Reduction
 
 - [Linear Discriminant Analysis (LDA)](LDA.ipynb)
