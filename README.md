@@ -1,4 +1,4 @@
-# Machine Learning/Data Science Framework
+# Machine Learning Algorithms
 
 ![alt text](/img/test.png)
 
