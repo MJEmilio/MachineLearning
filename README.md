@@ -16,7 +16,7 @@ This repository is meant to serve as a framework to build, train, deploy and imp
 
 ### Theoretical Foundations of Machine Learning 
 
-- [Classification](Classification.ipynb)
+- [Classification]
 - [Bias-Variance Tradeoff](Bias-VarianceTradeoff.ipynb)
 
 
@@ -35,7 +35,7 @@ This repository is meant to serve as a framework to build, train, deploy and imp
 - [Multi-Dimensional Scaling (MDS)](MDS.ipynb)
 - [Isomap](Isomap.ipynb)
 - [T-SNE]
-- [Dimensionality Reduction: Linear/Non-Linear ](DimensionalityReduction.ipynb)
+
 
 ### Unsupervised Learning
 
@@ -49,7 +49,6 @@ This repository is meant to serve as a framework to build, train, deploy and imp
 
 ### Neural Networks
 
-- [Perceptron](Perceptron.ipynb)
 - [Multi-layer Perceptron](MLP.ipynb)
 
 ### Support Vector Machines 
@@ -63,7 +62,7 @@ This repository is meant to serve as a framework to build, train, deploy and imp
 ### Decision by Committee: Ensemble Learning
 
 - [AdaBoost]
-- [Random Forest](RandomForest.ipynb)
+- [Random Forest]
 
 
 ## Exercises
@@ -82,6 +81,8 @@ From theory to algorithms. Cambridge university press, 2014.](http://www.cs.huji
 - [Hastie, Tibshirani and Friedman. The Elements of Statistical Learning:
 Data Mining, Inference, and Prediction, 2nd edition. Springer Series in
 Statistics, 2009.](https://web.stanford.edu/~hastie/Papers/ESLII.pdf)
+
+- [Machine Learning: A Probabilistic Perspective](https://doc.lagout.org/science/Artificial%20Intelligence/Machine%20learning/Machine%20Learning_%20A%20Probabilistic%20Perspective%20%5BMurphy%202012-08-24%5D.pdf)
 
 - [Ian Goodfellow and Yoshua Bengio and Aaron Courville Deep Learning.
 MIT Press, 2016.](https://www.deeplearningbook.org/)
