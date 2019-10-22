@@ -7,7 +7,7 @@
 
 ## Overview
 
-This repository is meant to serve as a framework to build, train, deploy and improve Machine Learning Models based on statistics, probability theory, and linear algebra. This also serves as a learning tool to complement the theoretical materials of:
+This repository is meant to serve as a framework to build, train, deploy and improve Machine Learning models based on statistics, probability theory, and linear algebra. This also serves as a learning tool to complement the theoretical materials of:
 
 - [Machine Learning: An Algorithmic Perspective - Stephen Marsland ](https://seat.massey.ac.nz/personal/s.r.marsland/mlbook.html)
 
